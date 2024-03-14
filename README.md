@@ -1,1 +1,1 @@
-# Praktikum-Pbo-3
+repository praktikum-inheritance
